@@ -1,4 +1,16 @@
-package Verisoft.ChocolateBarFactory;
+package Verisoft.ChocolateBarFactory.factory;
 
-public class DarkChocolateBarFactory {
+import Verisoft.ChocolateBarFactory.ChocolateBar;
+import Verisoft.ChocolateBarFactory.DarkChocolateBar;
+
+/**
+ * Factory class for creating DarkChocolateBar instances.
+ */
+public class DarkChocolateBarFactory extends ChocolateBarFactory {
+
+    @Override
+    public ChocolateBar createChocolateBar() {
+       return new DarkChocolateBar() ;
+
+    }
 }

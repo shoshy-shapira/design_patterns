@@ -1,4 +1,7 @@
-package Verisoft.ChocolateBarFactory;
+package Verisoft.ChocolateBarFactory.factory;
+
+import Verisoft.ChocolateBarFactory.ChocolateBar;
+
 /**
  * Abstract factory class for creating chocolate bars.
  * Defines the factory method for creating a chocolate bar.

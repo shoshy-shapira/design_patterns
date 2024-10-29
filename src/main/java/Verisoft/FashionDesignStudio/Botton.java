@@ -1,4 +1,5 @@
 package Verisoft.FashionDesignStudio;
-
-public class button {
+// Interface for the bottom part of an outfit
+public interface Botton {
+    void design();
 }

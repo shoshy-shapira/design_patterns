@@ -1,4 +1,9 @@
 package Verisoft.FashionDesignStudio;
 
-public class CasualTop {
+// Concrete class representing a casual top
+public class CasualTop implements Top {
+    @Override
+    public void design() {
+        System.out.println("design CasualTop");
+    }
 }

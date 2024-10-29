@@ -1,4 +1,5 @@
 package Verisoft.FashionDesignStudio;
-
-public class Top {
+// Interface for the top part of an outfit
+public interface Top {
+void design();
 }

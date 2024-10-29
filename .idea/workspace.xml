@@ -5,31 +5,113 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08a911ce-90fe-45c2-b682-e13170202d6e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/ChocolateBarFactory/ChocolateBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/ChocolateBarFactory/ChocolateBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/ChocolateBarFactory/DarkChocolateBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/ChocolateBarFactory/DarkChocolateBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/ChocolateBarFactory/MilkChocolateBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/ChocolateBarFactory/MilkChocolateBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/ChocolateBarFactory/WhiteChocolateBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/ChocolateBarFactory/WhiteChocolateBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/ChocolateBarFactory/factory/ChocolateBarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/ChocolateBarFactory/factory/ChocolateBarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/ChocolateBarFactory/factory/DarkChocolateBarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/ChocolateBarFactory/factory/DarkChocolateBarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/ChocolateBarFactory/factory/MilkChocolateBarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/ChocolateBarFactory/factory/MilkChocolateBarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/ChocolateBarFactory/factory/WhiteChocolateBarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/ChocolateBarFactory/factory/WhiteChocolateBarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/FashionDesignStudio/Botton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/FashionDesignStudio/Botton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/FashionDesignStudio/CasualBotton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/FashionDesignStudio/CasualBotton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/FashionDesignStudio/CasualOutfitFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/FashionDesignStudio/CasualOutfitFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/FashionDesignStudio/CasualTop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/FashionDesignStudio/CasualTop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/FashionDesignStudio/FormalBotton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/FashionDesignStudio/FormalBotton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/FashionDesignStudio/FormalOutfitFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/FashionDesignStudio/FormalOutfitFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/FashionDesignStudio/FormalTop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/FashionDesignStudio/FormalTop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/FashionDesignStudio/OutfitFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/FashionDesignStudio/OutfitFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/FashionDesignStudio/Top.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/FashionDesignStudio/Top.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/ParkDesign/Flower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/ParkDesign/Flower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/ParkDesign/FlowerBed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/ParkDesign/FlowerBed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/ParkDesign/ParkElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/ParkDesign/ParkElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/ParkDesign/ParkElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/ParkDesign/ParkElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/ParkDesign/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/ParkDesign/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/PlushToyFactory/Bunny.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/PlushToyFactory/Bunny.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/PlushToyFactory/Kitten.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/PlushToyFactory/Kitten.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/PlushToyFactory/TeddyBear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/PlushToyFactory/TeddyBear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/PlushToyFactory/Toy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/PlushToyFactory/Toy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/SingletonExample/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/SingletonExample/Logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/VacationPackages/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/VacationPackages/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/VacationPackages/ConcreteDestination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/VacationPackages/ConcreteDestination.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/VacationPackages/Destination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/VacationPackages/Destination.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/VacationPackages/DestinationFlyweightFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/VacationPackages/DestinationFlyweightFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/VinylRecordStore/ModernMediaPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/VinylRecordStore/ModernMediaPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/VinylRecordStore/RecordPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/VinylRecordStore/RecordPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/VinylRecordStore/RecordPlayerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/VinylRecordStore/RecordPlayerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/VinylRecordStore/VinylRecordPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/VinylRecordStore/VinylRecordPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/builder/ApiRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/builder/ApiRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/builder/ApiRequestBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/builder/ApiRequestBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/builder/ApiRequestBuilderInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/builder/ApiRequestBuilderInterface.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Sequence" />
+        <option value="UML Class" />
+        <option value="editable-svg" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2o0xmY2FnJRN51Z4uQcHZJ9o8lS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
+    "DefaultPlantUmlFileTemplate": "UML Class",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/user1/תרגול/verisoft/designPatters",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Verisoft.Main" />
+      <module name="designPatters" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Verisoft.builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -40,5 +122,21 @@
       <updated>1730020455885</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Verisoft/Main.java</url>
+          <line>131</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Verisoft/Main.java</url>
+          <line>143</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

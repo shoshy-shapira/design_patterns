@@ -1,4 +1,9 @@
 package Verisoft.FashionDesignStudio;
 
-public class FormalTop {
+// Concrete class representing a formal top
+public class FormalTop implements Top {
+    @Override
+    public void design() {
+        System.out.println("design FormalTop");
+    }
 }

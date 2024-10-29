@@ -1,6 +1,8 @@
 package Verisoft.VinylRecordStore;
-
-public class VinylRecordStore implements RecordPlayer {
+/**
+ * Concrete class representing a vinyl record player, implementing the RecordPlayer interface.
+ */
+public class VinylRecordPlayer implements RecordPlayer {
     @Override
     public void playRecord() {
         System.out.println("play VinylRecord");

@@ -1,4 +1,13 @@
 package Verisoft.VinylRecordStore;
 
-public class RecordPlayer {
+public interface RecordPlayer {
+    /**
+     * Plays the vinyl record.
+     */
+    void playRecord();
+
+    /**
+     * Stops the vinyl record.
+     */
+    void stopRecord();
 }
