@@ -13,7 +13,12 @@ import Verisoft.PlushToyFactory.Bunny;
 import Verisoft.PlushToyFactory.Kitten;
 import Verisoft.PlushToyFactory.TeddyBear;
 import Verisoft.PlushToyFactory.Toy;
+import Verisoft.RemoteControlCars.Car;
+import Verisoft.RemoteControlCars.CarImpl;
+import Verisoft.RemoteControlCars.RemoteControl;
+import Verisoft.RemoteControlCars.RemoteControlImpl;
 import Verisoft.SingletonExample.Logger;
+import Verisoft.TravelBooking.TravelBookingFacade;
 import Verisoft.VacationPackages.Client;
 import Verisoft.VacationPackages.DestinationFlyweightFactory;
 import Verisoft.VinylRecordStore.ModernMediaPlayer;
@@ -161,5 +166,37 @@ public class Main {
 
         System.out.println("Total unique destinations created: " + factory.countDestinations());
 
+//RemoteControlCar
+        System.out.println("*****RemoteControlCar*****\n");
+
+        // Create different car models
+        Car car1 = new CarImpl("Speedster", 100, "Red");
+        Car car2 = new CarImpl("Turbo", 120, "Blue");
+
+        // Create remote controls for each car
+        RemoteControl remote1 = new RemoteControlImpl(car1);
+        RemoteControl remote2 = new RemoteControlImpl(car2);
+
+        // Test car movements
+        System.out.println("Controlling Speedster:");
+        remote1.moveForward();
+        remote1.turnLeft();
+        remote1.moveBackward();
+
+        System.out.println("\nControlling Turbo:");
+        remote2.moveForward();
+        remote2.turnRight();
+        remote2.moveBackward();
+
+//TravelBookingFacade
+        System.out.println("*****TravelBookingFacade*****\n");
+
+        TravelBookingFacade travelBooking = new TravelBookingFacade();
+
+
+        travelBooking.bookFlight("Israel","Paris","30-10-2024");
+        travelBooking.bookHotel("Paris",3);
+        travelBooking.bookRentalCar("Paris","BYD",3,5);
     }
+
 }
