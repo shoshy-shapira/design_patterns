@@ -18,6 +18,9 @@ import Verisoft.CustomCakes.FlavorDecorator;
 import Verisoft.CustomCakes.ToppingDecorator;
 import Verisoft.FashionDesignStudio.*;
 import Verisoft.InterpreterPatternExample.RomanNumeralsInterpreter;
+import Verisoft.IteratorPatternExample.Book;
+import Verisoft.IteratorPatternExample.BookCollection;
+import Verisoft.IteratorPatternExample.Iterator;
 import Verisoft.MediatorPatternExample.ChatRoom;
 import Verisoft.MediatorPatternExample.User;
 import Verisoft.MementoPatternExample.History;
@@ -447,6 +450,8 @@ public class Main {
         document.addElement(new TextSection("Another text section."));
         document.addElement(new ImageSection());
         document.addElement(new TableSection());
+        System.out.println("-------------");
+
 
         // Create a visitor to collect statistics
         DocumentStatisticsVisitor visitor = new DocumentStatisticsVisitor();
@@ -458,11 +463,29 @@ public class Main {
         System.out.println("Word count: " + visitor.getWordCount());
         System.out.println("Image count: " + visitor.getImageCount());
         System.out.println("Table count: " + visitor.getTableCount());
+        System.out.println("-------------");
 
+        //iterator
+        System.out.println("*****iterator*****\n");
+
+        // Create a book collection
+        BookCollection bookCollection = new BookCollection();
+
+        // Add some books
+        bookCollection.addBook(new Book("aaa", "aaa", 1994));
+        bookCollection.addBook(new Book("Clean Code", "Robert", 2008));
+        bookCollection.addBook(new Book("eee", "Martin", 1999));
+
+        // Get iterator and iterate over books
+        Iterator iterator = bookCollection.createIterator();
+        while (iterator.hasNext()) {
+            Book book = iterator.next();
+            System.out.println(book);
+
+        }
+        System.out.println("-------------");
 
     }
-
-
 
 }
 
