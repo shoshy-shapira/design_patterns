@@ -1,4 +1,8 @@
 package Verisoft.InterpreterPatternExample;
 
-public class Expression {
+/**
+ * Interface representing an abstract expression in the Interpreter pattern.
+ */
+public interface Expression {
+    int interpret();
 }

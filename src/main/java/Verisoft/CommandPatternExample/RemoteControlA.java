@@ -3,7 +3,7 @@ package Verisoft.CommandPatternExample;
 /**
  * Invoker class that uses commands to control the television.
  */
-public class RemoteControl {
+public class RemoteControlA {
     private Command command;
 
     public void setCommand(Command command) {

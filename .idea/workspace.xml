@@ -5,17 +5,62 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08a911ce-90fe-45c2-b682-e13170202d6e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Verisoft/TravelBooking/FlightBookingSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Verisoft/TravelBooking/HotelBookingSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Verisoft/TravelBooking/RentalCarBookingSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Verisoft/TravelBooking/TravelBookingFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Verisoft/VisitorPatternExample/Document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Verisoft/VisitorPatternExample/DocumentStatisticsVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Verisoft/VisitorPatternExample/Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Verisoft/VisitorPatternExample/ImageSection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Verisoft/VisitorPatternExample/TableSection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Verisoft/VisitorPatternExample/TextSection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Verisoft/VisitorPatternExample/Visitor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/ArtGallery/Artwork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/ArtGallery/Artwork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/ArtGallery/ArtworkProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/ArtGallery/ArtworkProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/ArtGallery/RealArtwork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/ArtGallery/RealArtwork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/ChainOfResponsibilityExample/DocHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/ChainOfResponsibilityExample/DocHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/ChainOfResponsibilityExample/DocumentHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/ChainOfResponsibilityExample/DocumentHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/ChainOfResponsibilityExample/PDFHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/ChainOfResponsibilityExample/PDFHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/ChainOfResponsibilityExample/TextHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/ChainOfResponsibilityExample/TextHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/CommandPatternExample/ChangeChannelCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/CommandPatternExample/ChangeChannelCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/CommandPatternExample/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/CommandPatternExample/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/CommandPatternExample/RemoteControlA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/CommandPatternExample/RemoteControlA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/CommandPatternExample/Television.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/CommandPatternExample/Television.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/CommandPatternExample/TurnOffCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/CommandPatternExample/TurnOffCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/CommandPatternExample/TurnOnCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/CommandPatternExample/TurnOnCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/CustomCakes/BasicCake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/CustomCakes/BasicCake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/CustomCakes/Cake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/CustomCakes/Cake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/CustomCakes/CakeDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/CustomCakes/CakeDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/CustomCakes/FlavorDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/CustomCakes/FlavorDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/CustomCakes/ToppingDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/CustomCakes/ToppingDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/InterpreterPatternExample/Expression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/InterpreterPatternExample/Expression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/InterpreterPatternExample/NonterminalExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/InterpreterPatternExample/NonterminalExpression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/InterpreterPatternExample/RomanContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/InterpreterPatternExample/RomanContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/InterpreterPatternExample/RomanNumeralsInterpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/InterpreterPatternExample/RomanNumeralsInterpreter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/InterpreterPatternExample/TerminalExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/InterpreterPatternExample/TerminalExpression.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/RemoteControlCars/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/RemoteControlCars/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/RemoteControlCars/CarImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/RemoteControlCars/CarImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/RemoteControlCars/CarModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/RemoteControlCars/CarModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/RemoteControlCars/RemoteControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/RemoteControlCars/RemoteControl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/RemoteControlCars/RemoteControlImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/RemoteControlCars/RemoteControlImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/MediatorPatternExample/ChatRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/MediatorPatternExample/ChatRoom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/MediatorPatternExample/Mediator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/MediatorPatternExample/Mediator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/MediatorPatternExample/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/MediatorPatternExample/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/MementoPatternExample/History.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/MementoPatternExample/History.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/MementoPatternExample/Memento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/MementoPatternExample/Memento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/MementoPatternExample/TextEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/MementoPatternExample/TextEditor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/ShippingService/ExpressShipping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/ShippingService/ExpressShipping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/ShippingService/SameDayShipping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/ShippingService/SameDayShipping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/ShippingService/ShippingContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/ShippingService/ShippingContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/ShippingService/ShippingStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/ShippingService/ShippingStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/ShippingService/StandardShipping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/ShippingService/StandardShipping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/TemplateMethodExample/Chess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/TemplateMethodExample/Chess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/TemplateMethodExample/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/TemplateMethodExample/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/TemplateMethodExample/Soccer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/TemplateMethodExample/Soccer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/VendingMachine/HasCoinState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/VendingMachine/HasCoinState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/VendingMachine/NoCoinState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/VendingMachine/NoCoinState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/VendingMachine/SoldState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/VendingMachine/SoldState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/VendingMachine/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/VendingMachine/State.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/VendingMachine/VendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/VendingMachine/VendingMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/WeatherStation/CurrentConditionsDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/WeatherStation/CurrentConditionsDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/WeatherStation/ForecastDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/WeatherStation/ForecastDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/WeatherStation/StatisticsDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/WeatherStation/StatisticsDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/WeatherStation/WeatherDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/WeatherStation/WeatherDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Verisoft/WeatherStation/WeatherStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Verisoft/WeatherStation/WeatherStation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +71,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="UML Sequence" />
-        <option value="UML Class" />
         <option value="editable-svg" />
+        <option value="UML Class" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -47,19 +92,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;DefaultPlantUmlFileTemplate&quot;: &quot;UML Class&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user1/תרגול/verisoft/designPatters&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "DefaultPlantUmlFileTemplate": "UML Class",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/user1/תרגול/verisoft/designPatters",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Verisoft.Main" />
@@ -96,18 +144,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Verisoft/Main.java</url>
-          <line>136</line>
-          <option name="timeStamp" value="1" />
+          <line>364</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Verisoft/Main.java</url>
-          <line>148</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Verisoft/Main.java</url>
-          <line>177</line>
-          <option name="timeStamp" value="3" />
+          <line>451</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
